@@ -125,6 +125,14 @@
             ]
           },
           {
+            "name": "nprogress",
+            "path": "../node_modules/nprogress",
+            "main":"nprogress",
+            "resources": [
+              "nprogress.css"
+            ]
+          },
+          {
             "name": "text",
             "path": "../scripts/text"
           },
