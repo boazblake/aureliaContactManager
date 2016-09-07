@@ -3,8 +3,7 @@
   "description": "An Aurelia client application.",
   "version": "0.1.0",
   "repository": {
-    "type": "???",
-    "url": "???"
+    "url": "https://github.com/boazblake/aureliaContactManager"
   },
   "license": "MIT",
   "dependencies": {
